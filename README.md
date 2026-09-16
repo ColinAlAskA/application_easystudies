@@ -86,17 +86,7 @@ Les modèles et les appels HTTP sont regroupés dans `lib/utils.dart`. Les
 principaux modèles sont `Eleve`, `Devoir`, `Commentaire`, `Note`, `Bilan`,
 `Course`, `Presence` et `Paiement`.
 
-L'application utilise l'API EasyStudies :
-`https://app.easystudies.fr/api/`.
-
-Les principaux endpoints concernent :
-
-- l'authentification et les élèves ;
-- les devoirs, commentaires, notes et bilans ;
-- les présences et les paiements ;
-- les centres et les cours.
-
-Ces API ont été développées par notre maître de stage, **Atchuthan
+L'application utilise l'API EasyStudies : `https://app.easystudies.fr/api/`. Ces API ont été développées par notre maître de stage **Atchuthan
 Mahendravasa**.
 
 ## Installation et lancement
