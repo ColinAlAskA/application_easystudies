@@ -57,6 +57,13 @@ lib/
     └── boutons_app_bar/               # Profil et historiques
 ```
 
+<img width="320" height="602" alt="Arborescence du lib" src="https://github.com/user-attachments/assets/c766b22c-91b7-4f26-845b-e39485abd6c4" />
+
+<img width="1211" height="2474" alt="page d&#39;accueil" src="https://github.com/user-attachments/assets/210f6ef3-9166-4f58-8907-0b116a94b628" />
+<img width="1211" height="2474" alt="details_eleve1" src="https://github.com/user-attachments/assets/cd378637-087d-482c-bf82-fffe8ef08d2f" />
+<img width="1187" height="1096" alt="Diagramme de Classes utils" src="https://github.com/user-attachments/assets/3f913bde-793c-497a-81ee-3459f7d87c32" />
+
+
 Un schéma d'architecture peut être ajouté ici. Un PDF peut être placé dans le
 projet puis lié avec Markdown, par exemple :
 
